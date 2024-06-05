@@ -1,0 +1,6 @@
+number-guessing-game/
+├── index.php
+├── game.php
+├── results.php
+├── styles.css
+└── scores.txt
